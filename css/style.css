@@ -1,0 +1,35 @@
+body{
+  background-color: #ebd8b7
+}
+h1{
+  text-align: center;
+}
+.container1{
+  background-color: #f0e5d8;
+  margin-top: 50px;
+  border: 2px solid;
+  display: inline-block;
+  margin-left: 550px;
+  padding: 15px;
+}
+table{
+  margin: auto;
+}
+input{
+  font-size: 20px;
+  border: 2px solid #aa2ee6;
+  border-radius: 8px;
+  height: 45px;
+  width: 245px;
+  margin-bottom: 10px;
+}
+button{
+  font-size: 20px;
+  background-color: #99bbad;
+  width: 60px;
+  height: 60px;
+  border-radius: 8px;
+}
+button:hover{
+  background-color: #1687a7
+}
